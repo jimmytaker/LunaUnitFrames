@@ -12,7 +12,7 @@ paypal.me/LunaUnitFrames
 Donations are non-refundable / don't entitle you to anything
 
 
-##HIGHLIGHTS:
+## HIGHLIGHTS:
 -An amazing tag system lets you completly customize the text being displayed
 -A huge selection of bar textures and fonts to choose from
 -Buff timers. (for your own)
@@ -44,7 +44,7 @@ This supports MobHealth3 (but you have to install it :D ).
 Get BonusScanner if you are a healer to factor in any bonus healing you might have.
 
 
-##FAQ
+## FAQ
 
 Q: After downloading your addon doesn't show up in the game.
 A: Please remove the "-master" from the folder name.
