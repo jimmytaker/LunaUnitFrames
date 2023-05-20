@@ -69,7 +69,7 @@ Get [BonusScanner](http://www.curseforge.com/media/files/66/890/bonusscanner-1-2
 **A: Turn portrait to bar -> Choose portrait from the second dropdown -> move the slider below that dropdown all the way to the left.**
 
 **Q: I am getting tons of LUA errors!**<br/>
-**A: If you get LUA errors please post something like a report from ImprovedErrorFrame and what you were doing at the time. Or anything else that might help to describe the issue.**
+**A: If you get LUA errors please post something like a report from [ImprovedErrorFrame](https://legacy-wow.com/vanilla-addons/improved-error-frame/) and what you were doing at the time. Or anything else that might help to describe the issue.**
 
 **Q: Can i donate?**<br/>
 **A: paypal.me/LunaUnitFrames (Donations are non-refundable / don't entitle you to anything)**
