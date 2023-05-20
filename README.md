@@ -52,26 +52,26 @@ Get [BonusScanner](http://www.curseforge.com/media/files/66/890/bonusscanner-1-2
 
 ## FAQ
 
-**Q: After downloading your addon doesn't show up in the game.**
+**Q: After downloading your addon doesn't show up in the game.**<br/>
 **A: Please remove the "-master" from the folder name.**
 
-**Q: How do i open the configuration?**
+**Q: How do i open the configuration?**<br/>
 **A: Try /luf /luna or /lunaunitframes**
 
-**Q: How do i move stuff?**
+**Q: How do i move stuff?**<br/>
 **A: There is an unlock button in the configuration. Raidframes are moved by dragging their text (GRP1 etc).**
 
-**Q: Can i have spinning timers on anything other than player?**
+**Q: Can i have spinning timers on anything other than player?**<br/>
 **A: No, not possible with the vanilla client. There could be unreliable timers but i'm not gonna do that.**
 
-**Q: Why is there no 40y range check?**
+**Q: Why is there no 40y range check?**<br/>
 **A: There is a 40y check but it doesn't work as reliable as the 30y one. Range works the same way as it does in (non modified) all other Raidframes (sRaid, Grid, etc...). There is an easy way to check for up to 30y with the UI functions but the 40y check is based on combatlog. This means if you are standing in IF you won't see 40y because others are not producing combat log events. But if you are in a raid and others do something every like 3 seconds they are refreshed as "in range". I know there is other hacks of raidframes out there where every unit in the raid gets targeted every 0.5 seconds to see if a 40y spell is in range but that heavily affects performance and/or other behavior of the frames.**
 
-**Q: Why can't i see health values for enemys?**
+**Q: Why can't i see health values for enemys?**<br/>
 **A: As stated above you have to install [MobHealth3](http://legacy.curseforge.com/media/files/72/65/mobhealth3-mobhealth3-3-2.zip). If you have installed it correctly you should see HP numbers after the mob lost 10% health. By default MobHealth3 doesn't save its data between sessions so you would have to wait those 10% again after relogging / reloading UI.**
 
-**Q: How do i turn off portraits??**
+**Q: How do i turn off portraits??**<br/>
 **A: Turn portrait to bar -> Choose portrait from the second dropdown -> move the slider below that dropdown all the way to the left.**
 
-**Q: I am getting tons of LUA errors!**
+**Q: I am getting tons of LUA errors!**<br/>
 **If you get LUA errors please post something like a report from ImprovedErrorFrame and what you were doing at the time. Or anything else that might help to describe the issue.**
