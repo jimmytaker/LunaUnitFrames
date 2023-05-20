@@ -34,7 +34,7 @@
 **Example:**
 
 **/script if nil then CastSpellByName("Greater Heal(Rank 1)") end**<br/>
-**/lunamo Greater Heal**
+**/lunamo Greater Heal(Rank 1)**
 
 **The first line in this macro is equal to a '#show' you might know from live WoW. With this, bar addons that color your bar depending on if you have the mana for the spell will pick it up even though its a macro. Its optional.**
 
