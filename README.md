@@ -13,23 +13,23 @@
 
 
 ## HIGHLIGHTS:
-**An amazing tag system lets you completly customize the text being displayed**<br/>
-**A huge selection of bar textures and fonts to choose from**<br/>
-**Buff timers. (for your own)**<br/>
-**Totem timers**<br/>
-**Shows your mana while in cat / bear form**<br/>
-**XP and Reputation Bar**<br/>
-**You can reset instances via the right click menu**<br/>
-**All bars are positionable in a custom order. You can make the portrait into a bar too or disable it**<br/>
-**Enemy castbar**<br/>
-**Predicts incoming heals on you, your target, party and raid (also shows other people if they have this addon)**<br/>
-**Shows incoming resurrections from cast start till the accept window expires**<br/>
-**Range checker for the party and raid**<br/>
-**Energy ticker**<br/>
-**The fastest healthbars of all the raidframes out there (Actually blizzards are the same since its the same method of updating every frame but don't tell anyone)**<br/>
-**Raidframes show units with aggro by an indicator**<br/>
-**Click casting interface (no 3rd party addon required)**<br/>
-**Mouseover casting system: Use /lunamo or /lunamouseover followed by your spell of choice to make the macro behave like a normal spell button on your bar but when you are over a frame it casts on that target**<br/>
+**- An amazing tag system lets you completly customize the text being displayed**<br/>
+**- A huge selection of bar textures and fonts to choose from**<br/>
+**- Buff timers. (for your own)**<br/>
+**- Totem timers**<br/>
+**- Shows your mana while in cat / bear form**<br/>
+**- XP and Reputation Bar**<br/>
+**- You can reset instances via the right click menu**<br/>
+**- All bars are positionable in a custom order. You can make the portrait into a bar too or disable it**<br/>
+**- Enemy castbar**<br/>
+**- Predicts incoming heals on you, your target, party and raid (also shows other people if they have this addon)**<br/>
+**- Shows incoming resurrections from cast start till the accept window expires**<br/>
+**- Range checker for the party and raid**<br/>
+**- Energy ticker**<br/>
+**- The fastest healthbars of all the raidframes out there (Actually blizzards are the same since its the same method of updating every frame but don't tell anyone)**<br/>
+**- Raidframes show units with aggro by an indicator**<br/>
+**- Click casting interface (no 3rd party addon required)**<br/>
+**- Mouseover casting system: Use /lunamo or /lunamouseover followed by your spell of choice to make the macro behave like a normal spell button on your bar but when you are over a frame it casts on that target**<br/>
 
 **Example:**
 
