@@ -1,15 +1,9 @@
-# LunaUnitFrames
-Unit Frames for WoW 1.12.1
+# Unit Frames for WoW 1.12.1
 
+**Feel free to fork this but give credit (at least author & link to this github)**
 
-Feel free to fork this but give credit (at least author & link to this github)
+**DO NOT REUPLOAD! LINK HERE INSTEAD.**
 
-DO NOT REUPLOAD! LINK HERE INSTEAD.
-
-
-paypal.me/LunaUnitFrames
-
-Donations are non-refundable / don't entitle you to anything
 
 #### Player & Target
 ![Alt text](http://i.imgur.com/ON0y6Qw.png)
@@ -19,35 +13,35 @@ Donations are non-refundable / don't entitle you to anything
 
 
 ## HIGHLIGHTS:
-- An amazing tag system lets you completly customize the text being displayed
-- A huge selection of bar textures and fonts to choose from
-- Buff timers. (for your own)
-- Totem timers
-- Shows your mana while in cat / bear form
-- XP and Reputation Bar
-- You can reset instances via the right click menu
-- All bars are positionable in a custom order. You can make the portrait into a bar too or disable it
-- Enemy castbar
-- Predicts incoming heals on you, your target, party and raid (also shows other people if they have this addon)
-- Shows incoming resurrections from cast start till the accept window expires
-- Range checker for the party and raid
-- Energy ticker
-- The fastest healthbars of all the raidframes out there (Actually blizzards are the same since its the same method of updating every frame but don't tell anyone)
-- Raidframes show units with aggro by an indicator
-- Click casting interface (no 3rd party addon required)
-- Mouseover casting system: Use /lunamo or /lunamouseover followed by your spell of choice to make the macro behave like a normal spell button on your bar but when you are over a frame it casts on that target
+**An amazing tag system lets you completly customize the text being displayed**<br/>
+**A huge selection of bar textures and fonts to choose from**<br/>
+**Buff timers. (for your own)**<br/>
+**Totem timers**<br/>
+**Shows your mana while in cat / bear form**<br/>
+**XP and Reputation Bar**<br/>
+**You can reset instances via the right click menu**<br/>
+**All bars are positionable in a custom order. You can make the portrait into a bar too or disable it**<br/>
+**Enemy castbar**<br/>
+**Predicts incoming heals on you, your target, party and raid (also shows other people if they have this addon)**<br/>
+**Shows incoming resurrections from cast start till the accept window expires**<br/>
+**Range checker for the party and raid**<br/>
+**Energy ticker**<br/>
+**The fastest healthbars of all the raidframes out there (Actually blizzards are the same since its the same method of updating every frame but don't tell anyone)**<br/>
+**Raidframes show units with aggro by an indicator**<br/>
+**Click casting interface (no 3rd party addon required)**<br/>
+**Mouseover casting system: Use /lunamo or /lunamouseover followed by your spell of choice to make the macro behave like a normal spell button on your bar but when you are over a frame it casts on that target**<br/>
 
-Example:
+**Example:**
 
-/lunamo Greater Heal
+**/lunamo Greater Heal**
 
-The first line in this macro is equal to a '#show' you might know from live WoW. With this, bar addons that color your bar depending on if you have the mana for the spell will pick it up even though its a macro. Its optional.
+**The first line in this macro is equal to a '#show' you might know from live WoW. With this, bar addons that color your bar depending on if you have the mana for the spell will pick it up even though its a macro. Its optional.**
 
 
 
-Download the newest version and follow the development at: [LunaUnitFrames](https://github.com/jimmytaker/LunaUnitFrames/tree/TurtleWoW)
+**Download the newest version and follow the development at: [LunaUnitFrames](https://github.com/jimmytaker/LunaUnitFrames/tree/TurtleWoW)
 This supports [MobHealth3](http://legacy.curseforge.com/media/files/72/65/mobhealth3-mobhealth3-3-2.zip) (but you have to install it).
-Get [BonusScanner](http://www.curseforge.com/media/files/66/890/bonusscanner-1-2.zip) if you are a healer to factor in any bonus healing you might have.
+Get [BonusScanner](http://www.curseforge.com/media/files/66/890/bonusscanner-1-2.zip) if you are a healer to factor in any bonus healing you might have.**
 
 
 ## FAQ
@@ -74,4 +68,7 @@ Get [BonusScanner](http://www.curseforge.com/media/files/66/890/bonusscanner-1-2
 **A: Turn portrait to bar -> Choose portrait from the second dropdown -> move the slider below that dropdown all the way to the left.**
 
 **Q: I am getting tons of LUA errors!**<br/>
-**If you get LUA errors please post something like a report from ImprovedErrorFrame and what you were doing at the time. Or anything else that might help to describe the issue.**
+**A: If you get LUA errors please post something like a report from ImprovedErrorFrame and what you were doing at the time. Or anything else that might help to describe the issue.**
+
+**Q: Can i donate?**<br/>
+**A: paypal.me/LunaUnitFrames (Donations are non-refundable / don't entitle you to anything)**
