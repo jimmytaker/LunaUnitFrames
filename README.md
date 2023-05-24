@@ -41,8 +41,8 @@
 
 
 **Download the newest version and follow the development at: [LunaUnitFrames](https://github.com/jimmytaker/LunaUnitFrames/tree/TurtleWoW)
-This supports [MobHealth3](http://legacy.curseforge.com/media/files/72/65/mobhealth3-mobhealth3-3-2.zip) (but you have to install it).
-Get [BonusScanner](http://www.curseforge.com/media/files/66/890/bonusscanner-1-2.zip) if you are a healer to factor in any bonus healing you might have.**
+This supports [MobHealth3](https://github.com/Paparogue/MobHealth3-Kronos3-Edition) (but you have to install it).
+Get [BonusScanner](http://www.vanilla-addons.com/dls/bonusscanner/) if you are a healer to factor in any bonus healing you might have.**
 
 
 ## FAQ
@@ -63,7 +63,7 @@ Get [BonusScanner](http://www.curseforge.com/media/files/66/890/bonusscanner-1-2
 **A: There is a 40y check but it doesn't work as reliable as the 30y one. Range works the same way as it does in (non modified) all other Raidframes (sRaid, Grid, etc...). There is an easy way to check for up to 30y with the UI functions but the 40y check is based on combatlog. This means if you are standing in IF you won't see 40y because others are not producing combat log events. But if you are in a raid and others do something every like 3 seconds they are refreshed as "in range". I know there is other hacks of raidframes out there where every unit in the raid gets targeted every 0.5 seconds to see if a 40y spell is in range but that heavily affects performance and/or other behavior of the frames.**
 
 **Q: Why can't i see health values for enemys?**<br/>
-**A: As stated above you have to install [MobHealth3](http://legacy.curseforge.com/media/files/72/65/mobhealth3-mobhealth3-3-2.zip). If you have installed it correctly you should see HP numbers after the mob lost 10% health. By default MobHealth3 doesn't save its data between sessions so you would have to wait those 10% again after relogging / reloading UI.**
+**A: As stated above you have to install [MobHealth3](https://github.com/Paparogue/MobHealth3-Kronos3-Edition). If you have installed it correctly you should see HP numbers after the mob lost 10% health. By default MobHealth3 doesn't save its data between sessions so you would have to wait those 10% again after relogging / reloading UI.**
 
 **Q: How do i turn off portraits??**<br/>
 **A: Turn portrait to bar -> Choose portrait from the second dropdown -> move the slider below that dropdown all the way to the left.**
